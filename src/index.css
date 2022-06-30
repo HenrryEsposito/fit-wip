@@ -1,0 +1,5 @@
+@font-face {
+  font-family: "CreamCake";
+  src: local("CreamCake"),
+    url("./assets/fonts/CreamCake.otf") format("opentype");
+}
